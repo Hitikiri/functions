@@ -1,0 +1,16 @@
+C:\Users\Bekir\Desktop\github\functions\function2\function2\bin\Debug\net5.0\function2.exe
+C:\Users\Bekir\Desktop\github\functions\function2\function2\bin\Debug\net5.0\function2.deps.json
+C:\Users\Bekir\Desktop\github\functions\function2\function2\bin\Debug\net5.0\function2.runtimeconfig.json
+C:\Users\Bekir\Desktop\github\functions\function2\function2\bin\Debug\net5.0\function2.runtimeconfig.dev.json
+C:\Users\Bekir\Desktop\github\functions\function2\function2\bin\Debug\net5.0\function2.dll
+C:\Users\Bekir\Desktop\github\functions\function2\function2\bin\Debug\net5.0\ref\function2.dll
+C:\Users\Bekir\Desktop\github\functions\function2\function2\bin\Debug\net5.0\function2.pdb
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\function2.csproj.AssemblyReference.cache
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\function2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\function2.AssemblyInfoInputs.cache
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\function2.AssemblyInfo.cs
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\function2.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\function2.dll
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\ref\function2.dll
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\function2.pdb
+C:\Users\Bekir\Desktop\github\functions\function2\function2\obj\Debug\net5.0\function2.genruntimeconfig.cache
