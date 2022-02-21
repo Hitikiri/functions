@@ -1,0 +1,16 @@
+C:\Users\Bekir\Desktop\github\functions\function3\function3\bin\Debug\net5.0\function3.exe
+C:\Users\Bekir\Desktop\github\functions\function3\function3\bin\Debug\net5.0\function3.deps.json
+C:\Users\Bekir\Desktop\github\functions\function3\function3\bin\Debug\net5.0\function3.runtimeconfig.json
+C:\Users\Bekir\Desktop\github\functions\function3\function3\bin\Debug\net5.0\function3.runtimeconfig.dev.json
+C:\Users\Bekir\Desktop\github\functions\function3\function3\bin\Debug\net5.0\function3.dll
+C:\Users\Bekir\Desktop\github\functions\function3\function3\bin\Debug\net5.0\ref\function3.dll
+C:\Users\Bekir\Desktop\github\functions\function3\function3\bin\Debug\net5.0\function3.pdb
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\function3.csproj.AssemblyReference.cache
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\function3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\function3.AssemblyInfoInputs.cache
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\function3.AssemblyInfo.cs
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\function3.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\function3.dll
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\ref\function3.dll
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\function3.pdb
+C:\Users\Bekir\Desktop\github\functions\function3\function3\obj\Debug\net5.0\function3.genruntimeconfig.cache
